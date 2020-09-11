@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bkanister.github.io/rsschool-cv/cv
